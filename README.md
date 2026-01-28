@@ -30,7 +30,7 @@ Each problem folder contains:
 
 | # | Title | Difficulty | Pattern | Solution | Status |
 | --- | --- | --- | --- | --- | --- |
-| 217 | Contains Duplicate | E | Arrays & Hashing | [Link]([https://www.github.com/yishan-s/leetcode-practice](https://github.com/yishan-s/leetcode-practice/tree/main/Array/0217-Contains-Duplicate)) | [x] |
+| 217 | Contains Duplicate | E | Arrays & Hashing | [Link](Array/0217-Contains-Duplicate) | [x] |
 
 ---
 
