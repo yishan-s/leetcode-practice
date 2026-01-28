@@ -1,6 +1,7 @@
 # Leetcode-practice
 ![Status](https://img.shields.io/badge/Status-Planned/Initial_Setup-yellow)
 ![Language](https://img.shields.io/badge/Language-Java-orange)
+
 This repository is dedicated to recording my journey of mastering data structures and algorithms. Each solution is implemented with a focus on code quality, efficiency, and structured documentation.
 
 ---
